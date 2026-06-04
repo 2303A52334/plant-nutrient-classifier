@@ -68,4 +68,4 @@ Our custom CNN model has been evaluated against a diverse dataset of plant leave
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
-Developed with ❤️ by [2303A52334](https://github.com/2303A52334)
+Developed by Kota Sri Priya (https://github.com/2303A52334)
