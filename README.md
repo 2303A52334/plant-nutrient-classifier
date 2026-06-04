@@ -1,6 +1,5 @@
 # PlantCare AI: Intelligent Nutrient Diagnostics 🌿
 
-![PlantCare AI Banner](https://raw.githubusercontent.com/2303A52334/plant-nutrient-classifier/main/static/images/banner.png)
 
 ## Overview
 **PlantCare AI** is a state-of-the-art web application designed to help farmers and gardeners identify nutrient deficiencies in plants using advanced computer vision. Built with **Flask** and **TensorFlow**, it provides instant, AI-driven diagnostics from a simple leaf photo.
